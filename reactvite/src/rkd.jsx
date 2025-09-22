@@ -1,4 +1,4 @@
-function Rkd (){
+function RKD (){
 
     return(
 
@@ -6,4 +6,4 @@ function Rkd (){
     )
 }
 
-export default Rkd
+export default RKD
