@@ -11,8 +11,6 @@ function App() {
 console.log("Clicked",counter);
 counter = counter +1
 setCounter(counter)
-
-
   }
 
   return (
