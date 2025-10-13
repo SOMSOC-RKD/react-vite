@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1 class="bg-green-700 text-4xl text-green-50 p-7">Tailwind test with rkd</h1>
+      <h1 class="bg-green-700 text-4xl text-green-50 p-7">Tailwind test with rkd ok</h1>
 
       <div class="flex flex-col items-center gap-6 p-7 md:flex-row md:gap-8 rounded-2xl">
   <div>
